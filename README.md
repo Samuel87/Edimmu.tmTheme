@@ -1,5 +1,5 @@
 # Edimmu.tmTheme
-A Sublime Text 3 theme based on the Brogrammer theme
+A Sublime Text 3 color-scheme based on the Brogrammer theme
 
 ![Screenshot](Screenshot.png)
 

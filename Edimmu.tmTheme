@@ -469,6 +469,17 @@ entity.other.inherited-class</string>
 				<string>#FF3620</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS.tag</string>
+			<key>scope</key>
+			<string>entity.name.tag.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00F5C4</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>36594751-36ac-443a-9f2f-111b815085cf</string>
